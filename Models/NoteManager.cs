@@ -1,7 +1,7 @@
 using System.Collections.ObjectModel;
 using System.Linq;
 using System.Web;
-
+///opakuj
 namespace Website.Models
 {
     public class NoteManager
