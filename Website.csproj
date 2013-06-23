@@ -78,7 +78,6 @@
     </Compile>
     <Compile Include="Models\Note.cs" />
     <Compile Include="Models\NoteManager.cs" />
-    <Compile Include="Models\test\Note.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -157,6 +156,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Content\test_vymaz\" />
+    <Folder Include="Models\test\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
