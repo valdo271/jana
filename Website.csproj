@@ -78,6 +78,7 @@
     </Compile>
     <Compile Include="Models\Note.cs" />
     <Compile Include="Models\NoteManager.cs" />
+    <Compile Include="Models\test\Note.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
